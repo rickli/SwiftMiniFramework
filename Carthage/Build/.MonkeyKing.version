@@ -1,0 +1,11 @@
+{
+  "commitish" : "2.1.0",
+  "iOS" : [
+    {
+      "hash" : "5a289750b8d31ebc450dc71ff8a55704f7db9d8eae3470970b7408e23827415f",
+      "name" : "MonkeyKing",
+      "linking" : "dynamic",
+      "swiftToolchainVersion" : "5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+    }
+  ]
+}
